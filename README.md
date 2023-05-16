@@ -1,5 +1,6 @@
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Hi , I'm Elena Brosseau</h1>
 
+- 👨‍💻 I'm a self-taught Frontend Developer based in New York
 - 🌱 I recently completed the Frontend Career Path at `codecademy`
 - ⚡ My hobbies include 🎬 filmmaking, 🏞️ camping, and taking care of plants 🌵
 - 🤝 I'm looking to collaborate on some challenging projects
