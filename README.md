@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a self-taught Frontend Developer based in New York
 - 🌱 I recently completed the Frontend Career Path at `codecademy`
 - ⚡ My hobbies include 🎬 filmmaking, 🏞️ camping, and taking care of plants 🌵
-- 🤝 I'm looking to collaborate on some challenging projects
+- 🤝 I'm looking to collaborate on some exciting projects
 - 📖 Check out my <a href='https://elena-brosseau.github.io/portfolio-v2/'>portfolio</a>
 
 ### Ask me about...
